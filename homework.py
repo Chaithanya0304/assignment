@@ -58,7 +58,7 @@ list={
       "roll":"556",
       }
   del list["roll"]
-  print(lsit)
+  print(list)
  #4
  list={
       "name":"chaitu",
