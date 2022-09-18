@@ -84,6 +84,8 @@ list=[1,2,3,4,5]
 a=list[-1]
 b=list[-2]
 print(a,b)
+   
+      #thankyou
 
 
 
